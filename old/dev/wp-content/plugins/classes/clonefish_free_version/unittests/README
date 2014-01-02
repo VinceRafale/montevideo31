@@ -1,0 +1,2 @@
+The unit tests require PHPUnit to be installed, and present on the include path.
+To run the tests, try phpunit element.inputtext.php from the command line (either on windows or unix, both should work), don't try to run the abstract classes elementTests.php and validatorTests.php.

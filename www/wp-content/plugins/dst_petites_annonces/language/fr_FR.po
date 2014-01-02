@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dst Petites Annonces\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-28 16:35+0100\n"
+"PO-Revision-Date: 2010-10-28 16:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../dstpa_backend_logic.php:34
+msgid "Personal columns pending messages"
+msgstr "Messages en attente des petites annonces"
+
+#: ../dstpa_controller_black_list.php:8
+#: ../dstpa_controller_black_list.php:24
+msgid "Forbidden words"
+msgstr "Mots interdits"
+
+#: ../dstpa_controller_black_list.php:27
+msgid "Forbidden words in contact message (separate with space)"
+msgstr "Mots interdits dans les messages retournés vers les petites annonces (les séparer par des espaces)"
+
+#: ../dstpa_controller_black_list.php:31
+#: ../dstpa_model_black_list.php:37
+#: ../dstpa_view_black_list.php:37
+#: ../dstpa_view_params.php:43
+msgid "Save modifications"
+msgstr "Enregistrer les modifications"
+
+#: ../dstpa_controller_contact.php:32
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: ../dstpa_controller_contact.php:101
+#, php-format
+msgid "You can't send more %d messages in %d hour. Please retry in %d hours"
+msgstr "Vous ne pouvez pas envoyer plus de %d messages dans un interval de %d heures. Merci de réessayer dans %d heures"
+
+#: ../dstpa_controller_contact.php:156
+#: ../dstpa_controller_contact.php:181
+msgid "Your message has been sent to the author of this personnal column."
+msgstr "Votre message a été envoyé à l'auteur de l'annonce"
+
+#: ../dstpa_controller_contact.php:170
+#, php-format
+msgid "Response for your message n%d"
+msgstr "Réponse pour votre message n%d"
+
+#: ../dstpa_controller_contact.php:183
+msgid "There was a problem sending your message. Please try again or contact us."
+msgstr "Il y a eu un problème lors de l'envoi du message. Merci d'essayer de nouveau ou contactez-nous."
+
+#: ../dstpa_controller_moderated_messages.php:37
+msgid "There is no pending messages."
+msgstr "Il n'y a pas de messages en attente."
+
+#: ../dstpa_controller_moderated_messages.php:49
+msgid "The pending messages has been deleted."
+msgstr "Le message en attente a été supprimé."
+
+#: ../dstpa_controller_moderated_messages.php:51
+msgid "Impossible to delete this pending message."
+msgstr "Impossible de supprimer ce message en attente."
+
+#: ../dstpa_custom_post_taxonomy.php:17
+msgid "Ajouter une nouvelle petite annoncee"
+msgstr "Ajouter une nouvelle petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:18
+msgid "Editer une petite annonce"
+msgstr "Editer une petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:19
+msgid "Nouvelle petite annonce"
+msgstr "Nouvelle petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:20
+msgid "Voir la petite annonce"
+msgstr "Voir la petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:21
+msgid "Chercher une annonce"
+msgstr "Chercher une annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:22
+msgid "Aucune annonce trouv&eacute;e"
+msgstr "Aucune annonce trouvée"
+
+#: ../dstpa_custom_post_taxonomy.php:23
+msgid "Aucune annonce trouv&eacute;e dans la corbeille"
+msgstr "Aucune annonce trouvée dans la corbeille"
+
+#: ../dstpa_custom_post_taxonomy.php:63
+msgid "Rechercher cat&eacute;gories petite annonce"
+msgstr "Rechercher catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:64
+msgid "Toutes cat&eacute;gories petite annonce"
+msgstr "Toutes catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:65
+msgid "Parent cat&eacute;gories petite annonce"
+msgstr "Parent catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:66
+msgid "Parent cat&eacute;gories petite annonce :"
+msgstr "Parent catégories petite annonce :"
+
+#: ../dstpa_custom_post_taxonomy.php:67
+msgid "Editer cat&eacute;gories petite annonce"
+msgstr "Editer catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:68
+msgid "Modifier cat&eacute;gories petite annonce"
+msgstr "Modifier catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:69
+msgid "Ajouter Nouvelle Cat&eacute;gories petite annonce"
+msgstr "Ajouter Nouvelle Catégories petite annonce"
+
+#: ../dstpa_custom_post_taxonomy.php:70
+msgid "Nouveau Genre Cat&eacute;gories petite annonce"
+msgstr "Nouveau Genre Catégories petite annonce"
+
+#: ../dstpa_model_black_list.php:25
+#: ../dstpa_model_black_list.php:74
+#: ../dstpa_view_black_list.php:74
+msgid "Params"
+msgstr "Paramêtres"
+
+#: ../dstpa_model_black_list.php:28
+#: ../dstpa_view_params.php:30
+msgid "Indicate the number of messages allowed to post "
+msgstr "Indiquez le nombre de messages autorisés à poster "
+
+#: ../dstpa_model_black_list.php:31
+#: ../dstpa_view_black_list.php:31
+msgid " during an interval of "
+msgstr " during an interval of "
+
+#: ../dstpa_model_black_list.php:34
+#: ../dstpa_view_black_list.php:34
+#: ../dstpa_view_params.php:36
+msgid " hours."
+msgstr " heures"
+
+#: ../dstpa_view_black_list.php:25
+#: ../dstpa_view_params.php:27
+#: ../dstpa_view_params.php:82
+msgid "Param&ecirc;tres"
+msgstr "Paramêtres"
+
+#: ../dstpa_view_black_list.php:28
+msgid "ndicate the number of messages allowed to post "
+msgstr "Indiquez le nombre de messages autorisés à poster "
+
+#: ../dstpa_view_contact.php:14
+msgid "Contact author"
+msgstr "Contacter l'auteur"
+
+#: ../dstpa_view_contact.php:29
+#, php-format
+msgid "Contact author about personal column n&deg; %d"
+msgstr "Contacter l'auteur de l'annonce n°%d"
+
+#: ../dstpa_view_moderated_messages.php:128
+msgid "By "
+msgstr "Par "
+
+#: ../dstpa_view_moderated_messages.php:132
+msgid "Pending"
+msgstr "En attente"
+
+#: ../dstpa_view_moderated_messages.php:141
+msgid "Approve this message"
+msgstr "Approuver ce message"
+
+#: ../dstpa_view_moderated_messages.php:141
+msgid "Approve"
+msgstr "Approuver "
+
+#: ../dstpa_view_moderated_messages.php:145
+msgid "Delete this message"
+msgstr "Supprimer ce message "
+
+#: ../dstpa_view_moderated_messages.php:145
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../dstpa_view_params.php:33
+msgid " during an interval of  "
+msgstr " durant un interval de "
+
+#: ../dstpa_view_params.php:39
+msgid "Indicate the email for the messages"
+msgstr "Indiquez l'email pour les messages"
+
+#: ../forms/form.contact_author.php:8
+msgid "Your name"
+msgstr "Votre nom "
+
+#: ../forms/form.contact_author.php:9
+#: ../forms/form.contact_author.php:18
+#: ../forms/form.contact_author.php:33
+msgid "Required"
+msgstr "Requis"
+
+#: ../forms/form.contact_author.php:17
+msgid "Your email"
+msgstr "Votre email "
+
+#: ../forms/form.contact_author.php:19
+msgid "will be sent to the author."
+msgstr "sera envoyé à l'auteur "
+
+#: ../forms/form.contact_author.php:27
+msgid "Your phone"
+msgstr "Votre téléphone"
+
+#: ../forms/form.contact_author.php:28
+msgid "will be sent to the author"
+msgstr "sera envoyé à l'auteur"
+
+#: ../forms/form.contact_author.php:34
+msgid "Enter your message"
+msgstr "Entrez votre message"
+

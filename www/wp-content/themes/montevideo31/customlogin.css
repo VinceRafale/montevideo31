@@ -1,0 +1,90 @@
+/*  Personnsalisation du fond, du logo (H1) et de la barre horizontal du haut */
+html { 
+	background: aqua; 
+	color: #333;
+	font-size: 12px;
+}
+
+h1 a { 
+	background: url("images/header_bg_new.png") no-repeat scroll 0 -60px transparent; 
+	width:330px; 
+	height:66px; 
+
+}
+
+body.login { 
+	border-top-color:#bccad3; 
+}
+
+
+
+
+/* Message en jaune : hidden */
+.login .message{
+}
+
+/* Barre du haut - Lien */
+
+.login p#backtoblog{
+	padding: 12px 0 0;
+}
+
+.login p#backtoblog a:link,.login p#backtoblog a:visited { 
+	color: #3C69A4;
+	text-decoration: none; 
+}
+
+/* Barre du haut - Effet de survol*/
+.login p#backtoblog a:hover,.login p#backtoblog a:active { 
+	color: #3C69A4;
+	text-decoration:underline; 
+}
+
+/* Modification de la taille du bloc "Connexion" */
+#login { 
+	width:400px; 
+	margin:7em auto; 
+}
+
+#login form {
+	moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	-khtml-box-shadow: none;
+	box-shadow: none;
+}
+
+
+#login form input {
+	margin-top: 10px;
+}
+
+/* Modification de bouton "Se connecter" et des autres liens*/
+#login form .submit input { 
+
+	background: url("images/sprite8.png") repeat scroll -1px -311px transparent;
+	border: 1px solid white;
+	text-shadow: none;
+	moz-border-radius: 0px;
+	-khtml-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	font-weight: normal;
+	color: white;
+	padding: 4px 10px;
+	cursor: pointer;
+	width: auto;
+}
+
+#login form label {
+	color: #888;
+}
+
+
+#login form .submit input:hover { 
+	border-color:#808c95!important; 
+	color:#FFFFFF!important; 
+}
+
+.login #nav {
+	padding: 16px 0 0;
+}

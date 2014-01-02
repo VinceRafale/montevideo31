@@ -1,0 +1,13 @@
+.gce-page-grid .gce-calendar {
+	width: 100%;
+	border-collapse: collapse;
+	border: 2px solid black;
+	color: white;
+	background-color: #0086CB;
+}
+
+.gce-page-grid .gce-calendar .gce-caption {
+color: #0086CB;
+text-align: center;
+font-size: 16px;
+}

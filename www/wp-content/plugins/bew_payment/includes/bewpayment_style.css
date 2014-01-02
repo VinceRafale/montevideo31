@@ -1,0 +1,83 @@
+#icon-products{
+	background: transparent url(../images/icon_big.png) no-repeat;
+}
+
+
+
+.postbox .hndle{
+	cursor: default;
+}
+
+.postbox .widefat .submit{
+	cursor:pointer;
+}
+
+.wrap div.updated, .wrap div.fade{
+	padding:10px;
+}
+
+.widefat {
+border-color: #DFDFDF;
+background-color: #F9F9F9;
+}
+
+.widefat {
+border-width: 1px;
+border-style: solid;
+border-spacing: 0;
+width: 100%;
+clear: both;
+margin: 0;
+-moz-border-radius: 3px;
+-khtml-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+}
+
+
+.r_overlay {
+
+	/* must be initially hidden */
+	display:none;
+	
+	text-align: left;
+	
+	/* place overlay on top of other elements */
+	z-index:10000;
+	
+	/* styling */
+	background-color:white;
+	
+	width:675px;	
+	min-height:200px;
+	border:2px solid #dfdfdf;
+	
+	padding:20px;
+	
+	/* CSS3 styling for latest browsers */
+	-moz-box-shadow:0 0 90px 5px #dfdfdf;
+	-webkit-box-shadow: 0 0 90px #dfdfdf;	
+}
+
+
+.r_overlay_title{
+	display: block;
+	padding: 10px;
+	background-color: #EEE;
+	border: 1px solid #DFDFDF;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-bottom: 20px;
+
+}
+
+.r_overlay .close {
+	background-image:url(close.png);
+	position:absolute;
+	right:-15px;
+	top:-15px;
+	cursor:pointer;
+	height:35px;
+	width:35px;
+}

@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mv31\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-10-09 15:13+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Adrien M <wrym@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: s\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bew_common.php:59
+msgid "You will automatically be redirected in"
+msgstr "Vous serez automatiquement redirigé dans"
+
+#: bew_common.php:59
+msgid "seconds"
+msgstr "secondes"
+
+#: bew_common.php:59
+msgid "Continue"
+msgstr "Continuer"
+
+#: bew_users_management.php:50
+msgid "Tous les utilisateurs"
+msgstr ""
+
+#: bew_users_management.php:66
+msgid "Groupes utilisateurs"
+msgstr ""
+
+#: bew_users_management.php:66
+msgid "Groupes"
+msgstr ""
+
+#: bew_users_management.php:74
+msgid "Nom du groupe"
+msgstr ""
+
+#: bew_users_management.php:74
+msgid "Utilisateurs"
+msgstr ""
+
+#: bew_users_management.php:74
+msgid "Actions"
+msgstr ""
+
+#: bew_events/bookings_metabox.php:28
+msgid "Nombre de place disponibles :"
+msgstr ""
+
+#: bew_events/bookings_metabox.php:33
+msgid "Book this event for a user (enter user email address)"
+msgstr "Réserver cet évènement pour un utilisateur (indiquer son adresse email)"
+
+#: bew_events/bookings_metabox.php:38
+msgid "Book on this event"
+msgstr "Réserver une place sur cet evènement"
+
+#: bew_events/bookings_metabox.php:43
+msgid "Too much bookings for this event !"
+msgstr "Trop de réservation pour cet évènement"
+
+#: bew_events/bookings_metabox.php:53
+msgid "Bookings for this event:"
+msgstr "Réservations pour cet évènement :"
+
+#: bew_events/bookings_metabox.php:74
+#: bew_events/template_tags.php:67
+msgid "Cancel"
+msgstr "Annuler"
+
+#: bew_events/bookings_metabox.php:80
+msgid "No bookings for this event yet."
+msgstr "Aucune réservation pour cet évènement pour le moment."
+
+#: bew_events/bookings_metabox.php:96
+msgid "Bookings"
+msgstr "Réservations"
+
+#: bew_events/custom_post_taxonomy.php:10
+msgid "Search Event Categories"
+msgstr "Rechercher dans les catégories d'évènement"
+
+#: bew_events/custom_post_taxonomy.php:11
+msgid "All Event Categories"
+msgstr "Toutes les catégories d'évènement"
+
+#: bew_events/custom_post_taxonomy.php:12
+msgid "Parent Event Category"
+msgstr "Catégorie parente"
+
+#: bew_events/custom_post_taxonomy.php:13
+msgid "Parent Event Category:"
+msgstr "Catégorie parente :"
+
+#: bew_events/custom_post_taxonomy.php:14
+msgid "Edit Event Category"
+msgstr "Editer"
+
+#: bew_events/custom_post_taxonomy.php:15
+msgid "Update Event Category"
+msgstr "Mettre à jour"
+
+#: bew_events/custom_post_taxonomy.php:16
+msgid "Add New Event Category"
+msgstr "Ajouter une catégorie"
+
+#: bew_events/custom_post_taxonomy.php:17
+msgid "New Event Category Name"
+msgstr "Nom de la nouvelle catégorie d'évènement"
+
+#: bew_events/custom_post_taxonomy.php:33
+msgid "Events"
+msgstr "Evènements"
+
+#: bew_events/custom_post_taxonomy.php:34
+msgid "Event"
+msgstr "Evènement"
+
+#: bew_events/custom_post_taxonomy.php:35
+#: bew_events/custom_post_taxonomy.php:36
+#: bew_events/custom_post_taxonomy.php:38
+msgid "Add New Event"
+msgstr "Ajouter un évènement"
+
+#: bew_events/custom_post_taxonomy.php:37
+msgid "Edit Event"
+msgstr "Editer l'évènement"
+
+#: bew_events/custom_post_taxonomy.php:39
+msgid "View Event"
+msgstr "Voir l'évènement"
+
+#: bew_events/custom_post_taxonomy.php:40
+msgid "Search Event"
+msgstr "Rechercher un évènement"
+
+#: bew_events/custom_post_taxonomy.php:41
+msgid "No events found"
+msgstr "Aucun évènement trouvé"
+
+#: bew_events/custom_post_taxonomy.php:42
+msgid "No events found in trash"
+msgstr "Aucun évènement trouvé dans la corbeille"
+
+#: bew_events/template_tags.php:60
+msgid "places restantes"
+msgstr ""
+
+#: bew_events/template_tags.php:66
+msgid "You have booked"
+msgstr "Vous avez réservé"
+
+#: bew_events/template_tags.php:66
+msgid "place(s)"
+msgstr "place(s)"
+
+#: bew_events/template_tags.php:70
+msgid "Book"
+msgstr "Réserver"
+
+#: bew_framework_common/bew_messages.php:56
+msgid "Close"
+msgstr "Fermer"
+
+#: bew_framework_common/classes/clonefish/validation.requiredMatch.php:35
+#, php-format
+msgid "The field '%s' does not match."
+msgstr "Le champ '%s' ne correspond pas"
+
+#: bew_framework_common/classes/clonefish/validation.wpRequiredEmail.php:47
+msgid "Your email adress is not valid. (Model: john@example.com)"
+msgstr "L'adresse email indiquée n'est pas valide. (Exemple : john@example.com)"
+
+#: bew_framework_common/classes/clonefish/validation.wpRequiredUniqueEmail.php:21
+msgid "This email is already taken."
+msgstr "Cet email est déja pris."
+
+#: bew_framework_common/classes/clonefish/validation.wpRequiredUniqueEmail.php:21
+msgid "Lost your password ?"
+msgstr "Avez-vous oublié votre mot de passe ?"
+
+#: bew_framework_common/widgets/enhanced_rss.php:16
+msgid "Entries from any RSS or Atom feed"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:18
+msgid "BEW RSS"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:50
+msgid "Unknown Feed"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:104
+#, php-format
+msgid "<strong>RSS Error</strong>: %s"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:120
+msgid "An error has occurred; the feed is probably down. Try again later."
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:134
+msgid "Untitled"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:217
+#, php-format
+msgid "RSS Error: %s"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:221
+msgid "Enter the RSS feed URL here:"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:224
+msgid "Give the feed a title (optional):"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:227
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:236
+msgid "Display item content?"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:239
+msgid "Display item author if available?"
+msgstr ""
+
+#: bew_framework_common/widgets/enhanced_rss.php:242
+msgid "Display item date?"
+msgstr ""
+
+#: bew_framework_common/widgets/pure_html.php:13
+msgid "BEW html with custom class"
+msgstr ""
+
+#: bew_framework_common/widgets/pure_html.php:15
+msgid "Bew HTML"
+msgstr ""
+
+#: bew_framework_common/widgets/pure_html.php:56
+#: bew_selected_posts/selected_articles_calendar_widget.php:104
+#: bew_selected_posts/selected_articles_widget.php:127
+msgid "Title:"
+msgstr ""
+
+#: bew_framework_common/widgets/pure_html.php:59
+msgid "Custom class:"
+msgstr ""
+
+#: bew_framework_common/widgets/pure_html.php:64
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_abstract.php:310
+#: bew_selected_posts/selected_articles_carousel.php:141
+msgid "Edit"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar.php:112
+#: bew_selected_posts/selected_articles_calendar.php:120
+#, php-format
+msgid "View posts for %1$s %2$s"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar_widget.php:17
+msgid "Customizable calendar widget"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar_widget.php:18
+msgid "Bew Calendar Widget"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar_widget.php:23
+msgid "Add links to events"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar_widget.php:108
+msgid "Custom arguments:"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_calendar_widget.php:135
+#: bew_selected_posts/selected_articles_widget.php:161
+msgid "Widget class:"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:16
+msgid "Displays articles selected by their IDs"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:17
+msgid "Selected Articles Widget"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:22
+msgid "Display articles title"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:23
+msgid "Display articles content"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:24
+msgid "Display articles thumbnail"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:25
+msgid "Display date and hour of post's publication"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:26
+msgid "Show excerpt only"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:130
+msgid "Number of posts to show:"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:133
+msgid "Display posts from categories:"
+msgstr ""
+
+#: bew_selected_posts/selected_articles_widget.php:135
+msgid "Separate category slugs with blanks"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/edit_user.php:31
+msgid "Appartient au(x) groupe(s)"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/edit_user.php:62
+msgid "Coordonnées"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:35
+msgid "Nom et coordonnées"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:37
+msgid "Groupe(s)"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:38
+msgid "Cotisation / Dons"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:100
+msgid "Coordon&eacute;es compl&egrave;tes"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:101
+msgid "Masquer"
+msgstr ""
+
+#: bew_users_management/admin_pages/modification/users.php:177
+#: bew_users_management/admin_pages/new/manage_groups.php:315
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: bew_users_management/admin_pages/modification/users.php:185
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultats de recherche pour &#8220;%s&#8221;"
+
+#: bew_users_management/admin_pages/new/manage_groups.php:16
+msgid "Groupes d'utilisateurs"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:45
+msgid "Veuillez indiquer le nom du nouveau groupe."
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:55
+msgid "Le nouveau groupe a bien été créé."
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:79
+msgid "Le groupe a bien été renomé."
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:91
+msgid "Nouveau nom pour le groupe"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:92
+#: bew_users_management/admin_pages/new/manage_groups.php:308
+msgid "Renommer"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:127
+msgid "Le groupe a bien été supprimé."
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:142
+msgid "Voulez-vous vraiment supprimer le groupe"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:142
+msgid "Attention, cette action est irréversible. Les utilisateurs de ce groupe ne seront PAS supprimés."
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:146
+msgid "Confirmer la suppression"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:204
+msgid "Nouveau groupe : "
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:205
+msgid "Ajouter"
+msgstr ""
+
+#: bew_users_management/admin_pages/new/manage_groups.php:309
+msgid "Supprimer"
+msgstr ""
+
+#: bew_users_management/frontend_um/form.login.php:16
+msgid "Enter your email"
+msgstr "Votre email"
+
+#: bew_users_management/frontend_um/form.login.php:24
+msgid "Enter your password"
+msgstr "Votre mot de passe"
+
+#: bew_users_management/frontend_um/form.login.php:33
+msgid "Remember me on this computer"
+msgstr "Se souvenir de moi sur cet ordinateur"
+
+#: bew_users_management/frontend_um/form.login.php:35
+msgid "Do not check this if you are on a public computer."
+msgstr "Ne pas cocher si vous êtes sur une ordinateur publique"
+
+#: bew_users_management/frontend_um/form.profile.php:7
+msgid "Name and login information"
+msgstr "Informations de connection"
+
+#: bew_users_management/frontend_um/form.profile.php:15
+msgid "Enter your first name"
+msgstr "Votre prenom"
+
+#: bew_users_management/frontend_um/form.profile.php:16
+#: bew_users_management/frontend_um/form.profile.php:25
+msgid "won't be displayed"
+msgstr "ne sera pas affiché"
+
+#: bew_users_management/frontend_um/form.profile.php:24
+msgid "Enter your last name"
+msgstr "Votre nom"
+
+#: bew_users_management/frontend_um/form.profile.php:58
+msgid "Your Nickname"
+msgstr "Votre pseudonyme"
+
+#: bew_users_management/frontend_um/form.profile.php:59
+msgid "Will be displayed with your comments and submitted articles."
+msgstr "Il sera affiché avec vos commentaires et articles"
+
+#: bew_users_management/frontend_um/form.profile.php:68
+msgid "More about you"
+msgstr "A propos de vous"
+
+#: bew_users_management/frontend_um/form.profile.php:74
+msgid "Some words about you"
+msgstr "Quelques mots pour vous décrire"
+
+#: bew_users_management/frontend_um/form.profile.php:76
+msgid "Can be displayed if you want."
+msgstr "Peut être affiché si vous le désirez"
+
+#: bew_users_management/frontend_um/form.profile.php:82
+msgid "Your personnal information"
+msgstr "Vos information personnelles (ne seront jamais affichées ou divulguées)"
+
+#: bew_users_management/frontend_um/form.profile.php:88
+msgid "Your Address"
+msgstr "Votre adresse"
+
+#: bew_users_management/frontend_um/form.profile.php:89
+#: bew_users_management/frontend_um/form.profile.php:95
+#: bew_users_management/frontend_um/form.profile.php:101
+#: bew_users_management/frontend_um/form.profile.php:107
+#: bew_users_management/frontend_um/form.profile.php:113
+#: bew_users_management/frontend_um/form.profile.php:119
+#: bew_users_management/frontend_um/form.profile.php:125
+msgid "Won't be displayed"
+msgstr "ne sera pas communiqué"
+
+#: bew_users_management/frontend_um/form.profile.php:94
+msgid "Your Postal Code"
+msgstr "Code postal"
+
+#: bew_users_management/frontend_um/form.profile.php:100
+msgid "Your Town"
+msgstr "Ville"
+
+#: bew_users_management/frontend_um/form.profile.php:106
+msgid "Your Country"
+msgstr "Pays"
+
+#: bew_users_management/frontend_um/form.profile.php:112
+msgid "Your Phone number"
+msgstr "Numéro de tel."
+
+#: bew_users_management/frontend_um/form.profile.php:118
+msgid "Your Fax number"
+msgstr "Numéro de fax"
+
+#: bew_users_management/frontend_um/form.profile.php:124
+msgid "Your Cellphone number"
+msgstr "Numéro de mobile"
+
+#: bew_users_management/frontend_um/form.register.php:14
+msgid "Choose a nickname"
+msgstr "Choisissez un pseudonyme"
+
+#: bew_users_management/frontend_um/form.register.php:42
+msgid "won't be displayed. <br/>We do not sell our email adresses to any third party."
+msgstr "ne sera pas affiché."
+
+#: bew_users_management/frontend_um/form.register.php:59
+msgid "Confirm your password"
+msgstr "Confirmez votre mot de passe"
+
+#: bew_users_management/frontend_um/form.register.php:70
+msgid "disclaimer"
+msgstr "J'accepte les conditions d'utilisation du site"
+
+#: bew_users_management/frontend_um/form.register.php:72
+msgid "You have to accept the site rules to continue"
+msgstr "Vous devez accepter les conditions d'utilisation du site pour continuer"
+
+#: bew_users_management/frontend_um/frontend_um.php:122
+msgid "You are already logged in."
+msgstr "Vous êtes déja connecté."
+
+#: bew_users_management/frontend_um/frontend_um.php:122
+#: bew_users_management/frontend_um/frontend_um.php:136
+msgid "Log out"
+msgstr "Deconnexion"
+
+#: bew_users_management/frontend_um/um.login.php:65
+msgid "Your email address is not valid. (Model: john@example.com)"
+msgstr "L'adresse email indiquée n'est pas valide. (Exemple : john@example.com)"
+
+#: bew_users_management/frontend_um/um.login.php:87
+msgid "You have successfully logged in on"
+msgstr "Vous êtes maintenant connecté."
+
+#: bew_users_management/frontend_um/um.login.php:99
+#, php-format
+msgid "<strong>ERROR</strong>: Incorrect email and/or password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr "<strong>ERREUR</strong>:Adresse email et/ou mot de passe incorrect. <a href=\"%s\" title=\"Obtenir un nouveau mot de passe\">Avez-vous perdu votre mot de passe</a>?"
+
+#: bew_users_management/frontend_um/um.profile.php:21
+msgid "<strong>ERROR:</strong>You must be logged in to access this page. "
+msgstr "<strong>ERREUR:</strong>Vous devez être connecté pour accéder à cette page."
+
+#: bew_users_management/frontend_um/um.profile.php:34
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: bew_users_management/frontend_um/um.profile.php:56
+msgid "Your profile has successfully been modified."
+msgstr "Modifications enregistrées"
+
+#: bew_users_management/frontend_um/um.profile.php:58
+msgid "Error saving your profile, please contact website administration."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:25
+msgid "Register"
+msgstr "Inscription"
+
+#: bew_users_management/frontend_um/um.register.php:51
+msgid "You have successfully registered on"
+msgstr "Inscription effectuée avec succès sur"
+
+#: bew_users_management/frontend_um/um.register.php:51
+msgid "You will receive a confirmation email."
+msgstr "Vou allez recevoir un email de confirmation."
+
+#: bew_users_management/frontend_um/um.register.php:76
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:78
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:81
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:86
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:88
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:91
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: bew_users_management/frontend_um/um.register.php:105
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:13
+#: bew_users_management/includes/custom_user_data.php:39
+msgid "Adresse"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:14
+#: bew_users_management/includes/custom_user_data.php:40
+msgid "Code Postal"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:15
+#: bew_users_management/includes/custom_user_data.php:41
+msgid "Ville"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:16
+#: bew_users_management/includes/custom_user_data.php:42
+msgid "Pays"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:17
+msgid "T&eacute;l&eacute;phone"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:18
+#: bew_users_management/includes/custom_user_data.php:38
+msgid "Fax"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:19
+#: bew_users_management/includes/custom_user_data.php:29
+msgid "Mobile"
+msgstr ""
+
+#: bew_users_management/includes/custom_user_data.php:28
+msgid "Tel."
+msgstr ""
+
+#: bew_users_management/includes/custom_wp_user_search.php:242
+msgid "No matching users were found!"
+msgstr "Aucun utilisateur correspondant trouvé."
+
+#: bew_users_management/includes/custom_wp_user_search.php:281
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr ""
+
+#: bew_users_management/includes/helpers.php:41
+msgid "Il y a dja un groupe avec cet identifiant."
+msgstr ""
+
+#: bew_users_management/includes/helpers.php:50
+msgid "Il y a dja un groupe portant ce nom."
+msgstr ""
+
+#: bew_users_management/includes/helpers.php:66
+msgid "User Groups save failed."
+msgstr ""
+

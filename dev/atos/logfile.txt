@@ -1,0 +1,31 @@
+merchant_id : 082584341411111
+merchant_country : fr
+amount : 130
+transaction_id : 165652
+transmission_date: 20111018145652
+payment_means: CB
+payment_time : 165841
+payment_date : 20111018
+response_code : 00
+payment_certificate : 1318949921
+authorisation_id : 949921
+currency_code : 978
+card_number : 4974.00
+cvv_flag: 1
+cvv_response_code: 53
+bank_response_code: 00
+complementary_code: 
+complementary_info: 
+return_context: 
+caddie : 
+receipt_complement: 
+merchant_language: fr
+language: fr
+customer_id: 9165652
+order_id: 4801318949430
+customer_email: 
+customer_ip_address: 
+capture_day: 0
+capture_mode: AUTHOR_CAPTURE
+data: 
+-------------------------------------------
